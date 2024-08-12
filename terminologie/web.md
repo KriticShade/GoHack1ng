@@ -1,4 +1,4 @@
-# WEB
+# 🌐 Web
 
 ```
 // Some codez
